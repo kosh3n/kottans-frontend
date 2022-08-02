@@ -2,4 +2,16 @@
 
 ## Git та GitHub
 
-Well, that was interesting. Now I think I know how to work with Git better than I used to.
+Курс містить посилання на різноманітні навчальні матеріали - відео курси, туторіали, статті тощо. Ми пропонуємо такий підхід до цих матеріалів:
+
+Читання: для кожної статті, яку вам потрібно прочитати, будь ласка викладіть відповіді на наступні питання у вашому репозиторії. Не хвилюйтесь, ваші відповіді не будуть оцінюватись. Вони потрібні для повторення вами пройденого матеріалу:
+
+назвіть (хоча б одну) річ яка була для вас новою
+назвіть (хоча б одну) річ яка вас здивувала
+назвіть (хоча б одну) річ яку ви збираєтесь використовувати у майбутньому
+Онлайн курси: виконайте усі вправи, напишіть ваші думки про них у вашому репозиторії.
+
+Відео: те ж саме що і до читання; подивіться відео та дайте відповіді на 3 запитання. 
+
+
+Well, that was interesting. Now I think I know how to work with Git better than I used to. It was new for me to learn what to do with merge conflict. I was amazed by patch command because I found it very useful and saving a lot of time. Will definitely use all new commands in future.
