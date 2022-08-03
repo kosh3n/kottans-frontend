@@ -29,8 +29,10 @@ I'm going to practice with these commands and hope to using them in future.
 <strong>2. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1</strong>
 
 - <em>What's was new:</em>  
+I knew only GET/POST methods. Now I know that there are others: PUT, DELETE, HEAD, TRACE and OPTIONS. 
 
 - <em>Thing(-s) that amazed you:</em>  
+That HTTP Responses have a lot of information: status line, headers and body. Every response from the server will have a status code. The status code is important and tells the client how to interpret the server response. There' 1**, 2**, 3**, 4** and 5** statuses.
 
 - <em>Thing(-s) that you are going to use in future:</em>  
 I have studied a bit of Node.js and Express so I hope that I will use received knowledge in future work.
@@ -40,7 +42,9 @@ I have studied a bit of Node.js and Express so I hope that I will use received k
 
 - <em>What's was new:</em>  
 
+
 - <em>Thing(-s) that amazed you:</em>  
+
 
 - <em>Thing(-s) that you are going to use in future:</em>  
 I have studied a bit of Node.js and Express so I hope that I will use received knowledge in future work.
