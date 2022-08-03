@@ -1,6 +1,7 @@
 # kottans-frontend
+## Git Collaboration
 
-## Git та GitHub
+
  <!-- 
 
 Курс містить посилання на різноманітні навчальні матеріали - відео курси, туторіали, статті тощо. Ми пропонуємо такий підхід до цих матеріалів:
@@ -14,5 +15,17 @@
 
 Відео: те ж саме що і до читання; подивіться відео та дайте відповіді на 3 запитання. -->
 
+### Git та GitHub
+Well, that was interesting. Now I think I know how to work with Git better than I used to. There were also a lot of things that are new to me, like patch and fetch commands. I found these two very useful and saving a lot of time, especially the last one. And I've learned what to do with merge conflict because until now I have never faced it before. Will definitely use all new commands in the future. Besides I guess I will read more about merge and rebase differences because this thing I still not quite understood :c
 
-Well, that was interesting. Now I think I know how to work with Git better than I used to. It was new for me to learn what to do with merge conflict. I was amazed by patch command because I found it very useful and saving a lot of time. Will definitely use all new commands in future.
+***
+
+### Linux, Command Line, HTTP Tools
+This was really hard for me, mainly 3 & 4 modules.
+
+
+
+![Знімок екрана 2022-08-02 164613](https://user-images.githubusercontent.com/95924961/182568226-17c3add1-6806-48b0-ba44-2006e875086f.png)
+![Знімок екрана 2022-08-02 170327](https://user-images.githubusercontent.com/95924961/182568241-cee012ef-2f6f-4e3a-98fc-6ea9ee465c71.png)
+
+***
