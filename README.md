@@ -14,7 +14,7 @@ Well, that was interesting. Now I think I know how to work with Git better than 
 
 <strong>1. Linux Survival (4 modules)</strong>
 This was really hard for me, mainly 3 & 4 modules. Most every command was new to me. There were some commands which I knew before from the Git (like mkdir, cd, ls,  rm...) but the rest of the things were completely new:
-* File security. You can read, write or/and execute the file if it's a programm. the owner in Linux seems to be like administration rights in win. For changing right permission you shoul use <strong>chmod</strong>;
+* File security. You can read, write or/and execute the file if it's a programm. the owner in Linux seems to be like administration rights in windows. For changing right permission you shoul use <strong>chmod</strong>;
 * The difference between <strong>find ~ -name "poem*"</strong> and <strong>find . -name "poem*"</strong> is in that if you're not sure whether the file is called "poem", "poems", or even "poem-favorite" you can use '*'. But if you are already in the right directory, you can type command with "find .". It's just saving time;
 * The hard disk file system in Linux and Windows is different. On a Linux system, however, there is only one directory tree. I find it not very suitable for a common windows user (like me). 
 * <strong>grep</strong> is used to find patterns in data (is one of the most obscure and easily-forgotten command names in Linux). 
