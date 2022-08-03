@@ -41,10 +41,10 @@ I have studied a bit of Node.js and Express so I hope that I will use received k
 <strong>3. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2</strong>
 
 - <em>What's was new:</em>  
-
+Almost everything. But most of all how does the Authentication and the Caching working. 
 
 - <em>Thing(-s) that amazed you:</em>  
-
+That you can control the cachability both from the server and client side.
 
 - <em>Thing(-s) that you are going to use in future:</em>  
 I have studied a bit of Node.js and Express so I hope that I will use received knowledge in future work.
