@@ -51,3 +51,16 @@ I have studied a bit of Node.js and Express so I hope that I will use received k
 
 ***
 ## Git Collaboration
+
+I've heard and wanted to try learngitbranching for a long time. It turned out to be quite heavy for me. There was two very difficult themes for me: rebase (cherry-pick I understand better) and the advanced topics on both sides. 
+
+-<em>What's was new:</em>  
+Have never heard out hit describe before.
+
+-<em>Thing(-s) that amazed you: </em>  
+ I like tag command, find it very useful.
+ 
+-<em>Thing(-s) that you are going to use in future:</em>  
+git tag, git cherry-pick, git fetch, git rebase.  
+![Знімок екрана 2022-08-03 204151](https://user-images.githubusercontent.com/95924961/182674340-c28e970a-c32c-4c2d-8e4d-2d4a5c21df88.png)
+ 
