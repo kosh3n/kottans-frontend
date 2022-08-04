@@ -16,7 +16,9 @@ Well, that was interesting. Now I think I know how to work with Git better than 
 ![Знімок екрана 2022-08-03 123158](https://user-images.githubusercontent.com/95924961/182576043-de9f1610-0453-4ac9-ad68-8cb009f25ecb.png)
  
 </details>
+
 ***
+
 ## Linux, Command Line, HTTP Tools
 
 <strong>1. Linux Survival (4 modules)</strong>
@@ -33,6 +35,7 @@ I'm going to practice with these commands and hope to using them in future.
 ![Знімок екрана 2022-08-03 125353](https://user-images.githubusercontent.com/95924961/182589189-4b3921f4-785f-4c46-bb5b-1cc17e5b9027.png)
  
 </details>
+
 ---
 
 <strong>2. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1</strong>
@@ -45,6 +48,7 @@ That HTTP Responses have a lot of information: status line, headers and body. Ev
 
 - <em>Thing(-s) that you are going to use in future:</em>  
 I have studied a bit of Node.js and Express so I hope that I will use received knowledge in future work.
+
 ---
 
 <strong>3. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2</strong>
@@ -59,17 +63,21 @@ That you can control the cachability both from the server and client side.
 I have studied a bit of Node.js and Express so I hope that I will use received knowledge in future work.
 
 ***
+
 ## Git Collaboration
 
 I've heard and wanted to try learngitbranching for a long time. It turned out to be quite heavy for me. There was two very difficult themes for me: rebase (cherry-pick I understand better) and the advanced topics on both sides. 
 
 -<em>What's was new:</em>  
+
 Have never heard out hit describe before. I know now differences between rebase and merge command. Rebasing makes your commit tree look very clean since everything is in a straight line but it modifies the history of the commit tree, while merge “merges two or more development histories”.
 
--<em>Thing(-s) that amazed you: </em>  
+-<em>Thing(-s) that amazed you: </em> 
+
  I like tag command, find it very useful.
  
 -<em>Thing(-s) that you are going to use in future:</em>  
+
 git tag, git cherry-pick, git fetch, git rebase.  
 
 <details>
@@ -80,6 +88,7 @@ git tag, git cherry-pick, git fetch, git rebase.
  </details>
  
  ***
+ 
 # Front-End Basics
 ## Intro to HTML & CSS
 
