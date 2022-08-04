@@ -107,6 +107,12 @@ The nested <li> elements are descendants of the <ul> element and can be selected
 }
 
 4)For cases when we want user input to follow specific guidelines, we use the pattern attribute and assign it a regular expression, or regex
+5) понравилось что статья в блоке хтмл про медведей. я люблю медведей.
+6) embed tag wtf
+
+![Знімок екрана 2022-08-04 163612](https://user-images.githubusercontent.com/95924961/182860631-3663e5b7-d52b-4e6d-9ae3-211b7948928e.png)
+
+
 
 - <em>Thing(-s) that amazed you:</em>
 
