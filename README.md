@@ -5,6 +5,7 @@
 <em>Thing(-s) that amazed you:</em>
 <em>Thing(-s) that you are going to use in future:</em> -->
 
+# General
 ## Git та GitHub
 Well, that was interesting. Now I think I know how to work with Git better than I used to. There were also a lot of things that are new to me, like patch and fetch commands. I found these two very useful and saving a lot of time, especially the last one. And I've learned what to do with merge conflict because until now I have never faced it before. Will definitely use all new commands in the future. Besides I guess I will read more about merge and rebase differences because this thing I still not quite understood :c
 
@@ -75,3 +76,6 @@ git tag, git cherry-pick, git fetch, git rebase.
  
  </details>
  
+ ***
+# Front-End Basics
+## Intro to HTML & CSS
