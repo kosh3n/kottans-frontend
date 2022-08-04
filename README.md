@@ -1,9 +1,11 @@
 # kottans-frontend
 
  <!-- 
-<em>What's was new:</em>
-<em>Thing(-s) that amazed you:</em>
-<em>Thing(-s) that you are going to use in future:</em> -->
+- <em>What's was new:</em>
+
+- <em>Thing(-s) that amazed you:</em>
+
+- <em>Thing(-s) that you are going to use in future:</em> -->
 
 # General
 ## Git та GitHub
@@ -80,3 +82,34 @@ git tag, git cherry-pick, git fetch, git rebase.
  ***
 # Front-End Basics
 ## Intro to HTML & CSS
+
+ <!-- 
+- <em>What's was new:</em>
+
+on coursera: know only abot w3c, didnt know about WHATWG. Always forget that inline element like span, can NOT contain a 'div', which is a block-level element.
+
+on codelearn: i absolutely didnt like neither html course nor html. Because there is no full task only step by step and if you make all it wont засчитается and it tske so much time to just finish it.   А если ты выполняешь все здание сразу, то оно не засчитывается а просто переходит к следующему этапу задания (которые ты уже выполнил) и ты думаешь что сделла что-то не так, но нет, надо просто несколько раз нажать на некст. Было ыб гораздо лучше вместо этого тренажора freecodecamp или любой другой, которій обрабатівает задания нормально. 👺 Прикол ещ' если ті удалил свойтсов и переписала его, но в другом месте (например внизу) то его не засчитают пока не перенес'шь на место где біло напсиано свойтсво. чзх
+
+1)type[attribute*=value] прикольная вещь типа a[href*='florence'] { color: lightgreen;} 
+2)Chaining
+When writing CSS rules, it’s possible to require an HTML element to have two or more CSS selectors at the same time.
+This is done by combining multiple selectors, which we will refer to as chaining. For instance, if there was a special class for <h1> elements, the CSS would look like below:
+h1.special {}
+3)Descendant Combinator
+In addition to chaining selectors to select elements, CSS also supports selecting elements that are nested within other HTML elements, also known as descendants. For instance, consider the following HTML:
+<ul class='main-list'>
+  <li> ... </li>
+  <li> ... </li>
+  <li> ... </li>
+</ul>
+The nested <li> elements are descendants of the <ul> element and can be selected with the descendant combinator like so:
+.main-list li {
+}
+
+4)For cases when we want user input to follow specific guidelines, we use the pattern attribute and assign it a regular expression, or regex
+
+- <em>Thing(-s) that amazed you:</em>
+
+
+- <em>Thing(-s) that you are going to use in future:</em> -->
+
