@@ -7,8 +7,12 @@
 
 ## Git та GitHub
 Well, that was interesting. Now I think I know how to work with Git better than I used to. There were also a lot of things that are new to me, like patch and fetch commands. I found these two very useful and saving a lot of time, especially the last one. And I've learned what to do with merge conflict because until now I have never faced it before. Will definitely use all new commands in the future. Besides I guess I will read more about merge and rebase differences because this thing I still not quite understood :c
-![Знімок екрана 2022-08-03 123158](https://user-images.githubusercontent.com/95924961/182576043-de9f1610-0453-4ac9-ad68-8cb009f25ecb.png)
 
+<details>
+ 
+![Знімок екрана 2022-08-03 123158](https://user-images.githubusercontent.com/95924961/182576043-de9f1610-0453-4ac9-ad68-8cb009f25ecb.png)
+ 
+</details>
 ***
 ## Linux, Command Line, HTTP Tools
 
@@ -20,10 +24,12 @@ This was really hard for me, mainly 3 & 4 modules. Most every command was new to
 * <strong>grep</strong> is used to find patterns in data (is one of the most obscure and easily-forgotten command names in Linux). 
 
 I'm going to practice with these commands and hope to using them in future.
-
+<details>
+ 
 ![Знімок екрана 2022-08-02 164613](https://user-images.githubusercontent.com/95924961/182572498-9046ef5b-956a-4059-936b-39090d282bd6.png)
 ![Знімок екрана 2022-08-03 125353](https://user-images.githubusercontent.com/95924961/182589189-4b3921f4-785f-4c46-bb5b-1cc17e5b9027.png)
-
+ 
+</details>
 ---
 
 <strong>2. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1</strong>
@@ -55,12 +61,17 @@ I have studied a bit of Node.js and Express so I hope that I will use received k
 I've heard and wanted to try learngitbranching for a long time. It turned out to be quite heavy for me. There was two very difficult themes for me: rebase (cherry-pick I understand better) and the advanced topics on both sides. 
 
 -<em>What's was new:</em>  
-Have never heard out hit describe before.
+Have never heard out hit describe before. I know now differences between rebase and merge command. Rebasing makes your commit tree look very clean since everything is in a straight line but it modifies the history of the commit tree.
 
 -<em>Thing(-s) that amazed you: </em>  
  I like tag command, find it very useful.
  
 -<em>Thing(-s) that you are going to use in future:</em>  
 git tag, git cherry-pick, git fetch, git rebase.  
+
+<details>
+ 
 ![Знімок екрана 2022-08-03 204151](https://user-images.githubusercontent.com/95924961/182674340-c28e970a-c32c-4c2d-8e4d-2d4a5c21df88.png)
+ 
+ </details>
  
