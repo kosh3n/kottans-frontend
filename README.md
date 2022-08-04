@@ -83,10 +83,35 @@ git tag, git cherry-pick, git fetch, git rebase.
 # Front-End Basics
 ## Intro to HTML & CSS
 
- <!-- 
+1. 1 & 2 weeks of "HTML, CSS, and Javascript for Web Developers":
+
 - <em>What's was new:</em>
 
-on coursera: know only abot w3c, didnt know about WHATWG. Always forget that inline element like span, can NOT contain a 'div', which is a block-level element.
+ I always forgot that inline element like span, can NOT contain a 'div', which is a block-level element. CSS rules conflict resolution was interesting part.
+ 
+- <em>Thing(-s) that amazed you:</em>
+
+ I heard only abot w3c, didnt know about WHATWG.
+ 
+- <em>Thing(-s) that you are going to use in future:</em> 
+
+Bootstrap maybe.
+ 
+<details>
+![Знімок екрана 2022-08-04 165604](https://user-images.githubusercontent.com/95924961/182865519-20ee1588-245e-40cb-b100-11d03fcae70e.png)
+</details>
+
+---
+
+2. Learn HTML(Eng)
+
+---
+
+3. Learn CSS(Eng)
+
+
+ <!-- 
+- <em>What's was new:</em>
 
 on codelearn: i absolutely didnt like neither html course nor html. Because there is no full task only step by step and if you make all it wont засчитается and it tske so much time to just finish it.   А если ты выполняешь все здание сразу, то оно не засчитывается а просто переходит к следующему этапу задания (которые ты уже выполнил) и ты думаешь что сделла что-то не так, но нет, надо просто несколько раз нажать на некст. Было ыб гораздо лучше вместо этого тренажора freecodecamp или любой другой, которій обрабатівает задания нормально. 👺 Прикол ещ' если ті удалил свойтсов и переписала его, но в другом месте (например внизу) то его не засчитают пока не перенес'шь на место где біло напсиано свойтсво. чзх
 
