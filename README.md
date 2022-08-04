@@ -89,7 +89,7 @@ git tag, git cherry-pick, git fetch, git rebase.
  
  ***
  
-# Front-End Basics
+
 ## Intro to HTML & CSS
 
 1. 1 & 2 weeks of "HTML, CSS, and Javascript for Web Developers":
@@ -149,6 +149,41 @@ Chaining and Descendant Combinator, pattern attribute.
 ![Знімок екрана 2022-08-04 163803](https://user-images.githubusercontent.com/95924961/182860992-325ce936-0e12-41cd-8163-70f1c9ba78f7.png)
  
 </details>
+
+4. Can't Unsee 
+
+<details>
+
+![Знімок екрана 2022-08-04 144549](https://user-images.githubusercontent.com/95924961/182898537-37da0d65-b4ab-4a0d-9c12-891b29e2b772.png)
+
+</details>
+
+***
+## Адаптивний Web Design
+
+1. Responsive web design basics
+
+---
+
+2. FLEXBOX. Вчимося верстати на флексах
+
+---
+
+3. Flexbox Froggy 
+
+<details>
+
+![Знімок екрана 2022-08-04 191040](https://user-images.githubusercontent.com/95924961/182898148-360ffee2-040e-4482-a393-517ceb517067.png)
+
+</details>
+
+---
+
+4. CSS Grid Layout
+
+---
+
+5. Grid Garden 
 
 ***
 
