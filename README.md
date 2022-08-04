@@ -62,7 +62,7 @@ I have studied a bit of Node.js and Express so I hope that I will use received k
 I've heard and wanted to try learngitbranching for a long time. It turned out to be quite heavy for me. There was two very difficult themes for me: rebase (cherry-pick I understand better) and the advanced topics on both sides. 
 
 -<em>What's was new:</em>  
-Have never heard out hit describe before. I know now differences between rebase and merge command. Rebasing makes your commit tree look very clean since everything is in a straight line but it modifies the history of the commit tree.
+Have never heard out hit describe before. I know now differences between rebase and merge command. Rebasing makes your commit tree look very clean since everything is in a straight line but it modifies the history of the commit tree, while merge “merges two or more development histories”.
 
 -<em>Thing(-s) that amazed you: </em>  
  I like tag command, find it very useful.
@@ -73,6 +73,7 @@ git tag, git cherry-pick, git fetch, git rebase.
 <details>
  
 ![Знімок екрана 2022-08-03 204151](https://user-images.githubusercontent.com/95924961/182674340-c28e970a-c32c-4c2d-8e4d-2d4a5c21df88.png)
+![Знімок екрана 2022-08-03 211054](https://user-images.githubusercontent.com/95924961/182806189-972d9173-4996-4947-988d-062abc3d5620.png)
  
  </details>
  
