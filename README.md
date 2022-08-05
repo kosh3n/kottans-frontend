@@ -159,7 +159,7 @@ Chaining and Descendant Combinator, pattern attribute.
 </details>
 
 ***
-## Адаптивний Web Design
+## Responsive Web Design
 
 1. Responsive web design basics
 
@@ -180,10 +180,16 @@ Chaining and Descendant Combinator, pattern attribute.
 ---
 
 4. CSS Grid Layout
-
+<!-- order, grid-template-columns можно задавати у відсотках, fr the fractional fr. Each fr unit allocates one share of the available space. For example, if two elements are set to 1fr and 3fr respectively, the space is divided into 4 equal shares; the first element occupies 1/4 and the second element 3/4 of any leftover space.-->
 ---
 
 5. Grid Garden 
+
+<details>
+
+![Знімок екрана 2022-08-05 130833](https://user-images.githubusercontent.com/95924961/183055729-42a8a272-448b-4e24-80c8-dec52de41ae7.png)
+
+</details>
 
 ***
 
@@ -195,4 +201,8 @@ Chaining and Descendant Combinator, pattern attribute.
 
 
 - <em>Thing(-s) that you are going to use in future:</em> -->
+
+***
+
+## HTML & CSS Practice: Hooli-style Popup
 
