@@ -159,13 +159,18 @@ Chaining and Descendant Combinator, pattern attribute.
 </details>
 
 ***
+
 ## Responsive Web Design
 
 1. Responsive web design basics
 
+
+
 ---
 
 2. FLEXBOX. Вчимося верстати на флексах
+
+I studied flex on this course some time ago. So there was not much new but it was good to recall some basics.
 
 ---
 
@@ -180,7 +185,9 @@ Chaining and Descendant Combinator, pattern attribute.
 ---
 
 4. CSS Grid Layout
-<!-- order, grid-template-columns можно задавати у відсотках, fr the fractional fr. Each fr unit allocates one share of the available space. For example, if two elements are set to 1fr and 3fr respectively, the space is divided into 4 equal shares; the first element occupies 1/4 and the second element 3/4 of any leftover space.-->
+
+I worked with grid only once when I was using bootstrap, so this videos were new to me. I like order and grid-template-columns, but I don't think I quite understood fr.
+
 ---
 
 5. Grid Garden 
@@ -202,7 +209,6 @@ Chaining and Descendant Combinator, pattern attribute.
 
 - <em>Thing(-s) that you are going to use in future:</em> -->
 
-***
 
 ## HTML & CSS Practice: Hooli-style Popup
 
