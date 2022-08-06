@@ -222,3 +222,7 @@ I worked with grid only once when I was using bootstrap, so this videos were new
 
 ## HTML & CSS Practice: Hooli-style Popup
 
+***
+
+## JavaScript Basics 
+ <!-- самое смешное когда не поняв задание идешь в документацию, находишь подходящий пример, повторяешь его и оно работает... внезапно :о-->
