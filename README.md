@@ -164,7 +164,17 @@ Chaining and Descendant Combinator, pattern attribute.
 
 1. Responsive web design basics
 
+- <em>What's was new:</em>
 
+I know more about media queries.
+
+- <em>Thing(-s) that amazed you:</em>
+
+Media queries based on device capability (hover, any-hover, pointer, any-pointer), haven't hear about it.
+
+- <em>Thing(-s) that you are going to use in future:</em> 
+
+Flex, grid, media query breakpoints.
 
 ---
 
