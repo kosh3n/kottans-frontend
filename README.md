@@ -186,7 +186,7 @@ I studied flex on this course some time ago. So there was not much new but it wa
 
 4. CSS Grid Layout
 
-I worked with grid only once when I was using bootstrap, so this videos were new to me. I like order and grid-template-columns, but I don't think I quite understood fr.
+I worked with grid only once when I was using bootstrap, so this videos were new to me. I like order and grid-template-columns, but I don't think I quite understood fr. For now I found flex more... flexible and useful than grid.
 
 ---
 
