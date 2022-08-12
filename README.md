@@ -230,9 +230,22 @@ I worked with grid only once when I was using bootstrap, so this videos were new
 ## JavaScript Basics 
  <!-- самое смешное когда не поняв задание идешь в документацию, находишь подходящий пример, повторяешь его и оно работает... десруткирующие массивы и внезапно :о-->
 
-* Intro JS on Coursera
-* FreeCodeCamp
-  + Basic JavaScript
+* Intro JS on Coursera:
+<!-- Primitives are copied by value, 
+var x = 5;
+var y = x;
+x = 10;
+console.log(y); 
+so 'y' is not connected to 'x' in any way.-->
+
+  <details>
+  
+ ![Знімок екрана 2022-08-12 194811](https://user-images.githubusercontent.com/95924961/184405865-7ed01896-2f7c-4bad-a4a3-8b139f215830.png)
+
+  </details>
+  
+* FreeCodeCamp:
+  + Basic JavaScript:
   
   + ES6 Challenges:  
   <details>
@@ -241,12 +254,12 @@ I worked with grid only once when I was using bootstrap, so this videos were new
 
   </details>
   
-  + Basic Data Structures 
+  + Basic Data Structures: 
   
-  + Basic Algorithm Scripting 
+  + Basic Algorithm Scripting: 
   
-  + Functional Programming 
+  + Functional Programming: 
   
-  + Algorithm Scripting Challenges 
+  + Algorithm Scripting Challenges: 
   
 ***
