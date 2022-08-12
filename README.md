@@ -234,7 +234,12 @@ I worked with grid only once when I was using bootstrap, so this videos were new
 * FreeCodeCamp
   + Basic JavaScript
   
-  + ES6 Challenges 
+  + ES6 Challenges:  
+  <details>
+  
+  ![Знімок екрана 2022-08-12 150809](https://user-images.githubusercontent.com/95924961/184351010-135713ee-3c5b-4257-9212-285d37b50053.png)
+
+  </details>
   
   + Basic Data Structures 
   
