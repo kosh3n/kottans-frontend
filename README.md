@@ -222,7 +222,26 @@ I worked with grid only once when I was using bootstrap, so this videos were new
 
 ## HTML & CSS Practice: Hooli-style Popup
 
+[Demo](https://kosh3n.github.io/HTML-CSS-Popup/) |
+[Code base](https://github.com/kosh3n/HTML-CSS-Popup)
+
 ***
 
 ## JavaScript Basics 
  <!-- самое смешное когда не поняв задание идешь в документацию, находишь подходящий пример, повторяешь его и оно работает... десруткирующие массивы и внезапно :о-->
+
+* Intro JS on Coursera
+* FreeCodeCamp
+  + Basic JavaScript
+  
+  + ES6 Challenges 
+  
+  + Basic Data Structures 
+  
+  + Basic Algorithm Scripting 
+  
+  + Functional Programming 
+  
+  + Algorithm Scripting Challenges 
+  
+***
